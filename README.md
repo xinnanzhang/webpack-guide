@@ -33,3 +33,5 @@ moment 日期处理类库
 //参考
 https://zhuanlan.zhihu.com/p/20367175
 https://zhuanlan.zhihu.com/p/20397902
+
+// npm run start   /  npm run build

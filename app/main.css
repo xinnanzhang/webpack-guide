@@ -1,4 +1,4 @@
 h1 {
     color: red;
-    background: url('./base64.png');
+    background: url('../public/imgs/test.jpg');
 }
