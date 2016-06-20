@@ -40,7 +40,7 @@ module.exports = {
         loader: 'babel',
         include: APP_PATH,
         query: {
-          presets: ['es2015']
+          presets: ['es2015','react']
         }
       }
     ]
